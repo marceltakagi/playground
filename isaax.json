@@ -6,6 +6,6 @@
 	"license": "",
 	"language": "",
 	"scripts": {
-		"start": "/home/pi/test.pl >> /home/pi/test.log"
+		"start": "/usr/bin/perl /home/pi/test.pl"
 	}
 }
