@@ -1,0 +1,11 @@
+{
+	"name": "Test-201906",
+	"version": "",
+	"description": "",
+	"author": "",
+	"license": "",
+	"language": "",
+	"scripts": {
+		"start": "goforit"
+	}
+}
