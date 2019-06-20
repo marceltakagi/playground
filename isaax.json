@@ -4,7 +4,7 @@
 	"description": "",
 	"author": "",
 	"license": "",
-	"language": "",
+	"language": "perl",
 	"scripts": {
 		"start": "/usr/bin/perl /home/pi/test.pl"
 	}
