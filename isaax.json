@@ -1,11 +1,11 @@
 {
 	"name": "Test-201906",
-	"version": "",
+	"version": "0.2",
 	"description": "",
 	"author": "Marcel Takagi",
 	"license": "",
 	"language": "perl",
 	"scripts": {
-		"start": "/usr/bin/perl /home/pi/test.pl"
+		"start": "perl isaax.pl"
 	}
 }
