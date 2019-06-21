@@ -4,6 +4,7 @@
 	"description": "",
 	"author": "Marcel Takagi",
 	"license": "",
+	"main": "isaax.pl",
 	"language": "perl",
 	"scripts": {
 		"start": "perl isaax.pl"
